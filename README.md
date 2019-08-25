@@ -1,6 +1,6 @@
 # aspnet-musicstore
 
-This is an ASP.NET MVC 5 web application with CRUD functionality developed to manage various data related to a music store such as employees and customers, as well as music albums, tracks, and artists. The project involved designing custom view model classes and views, tailored to specific use cases. Concepts that were covered in this project included: handling associated data in design model classes, using LINQ to sort collections, building HTML forms, using user roles for security, handling non-text media items, using AJAX and creating partial views, and loading bulk data from csv and xlsx files. 
+This is an ASP.NET MVC 5 web application with CRUD functionality developed to manage the various data related to a music store such as employees and customers, as well as music albums, tracks, and artists. The project involved designing custom view model classes and views, tailored to specific use cases. Concepts covered in this project include: handling associated data in design model classes, using LINQ to sort collections, building HTML forms, using user roles for security, handling non-text media items, using AJAX and creating partial views, and loading bulk data from csv and xlsx files. 
 
 ## User accounts info for testing
 
